@@ -18,6 +18,29 @@
 
 The requirements for running the code are available in the requirements.txt file.
 
+**Interactive Tableau Dashboard
+Explore the comprehensive data analysis and insights through our interactive dashboard:
+🔗 View Vanguard Digital Transformation Dashboard: https://public.tableau.com/views/Visualisations_Projets_Ironhack/Vanguard_UX_Redesign_Dashboard?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Dashboard Features:
+
+-Client Journey Analytics: Visualize customer progression through digital transformation stages
+-Completion Rate Analysis: Track conversion rates and identify optimization opportunities
+-Demographic Insights: Understand client behavior patterns across different segments
+-Performance Metrics: Monitor key performance indicators and business outcomes
+-Interactive Filters: Customize views by time period, client demographics, and process steps
+
+#Key Insights Available:
+
+Digital process completion rates by client segment
+Time-to-completion analysis across different user pathways
+Drop-off points identification and conversion funnel analysis
+Demographic trends and their impact on digital adoption
+Comparative performance metrics before and after digital transformation initiatives
+
+
+The dashboard is built using Tableau Public and provides real-time insights from the Vanguard digital transformation dataset. Navigate through different tabs to explore various aspects of the analysis.
+
+
 #### **Credits**: Célestine Tsondo, Laura Suemitsu
 
 #### **Aknowledgements**: Frederico Raposo (Ironhack)
