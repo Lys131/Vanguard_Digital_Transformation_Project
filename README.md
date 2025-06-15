@@ -21,6 +21,7 @@ The requirements for running the code are available in the requirements.txt file
 **Interactive Tableau Dashboard
 Explore the comprehensive data analysis and insights through our interactive dashboard:
 🔗 View Vanguard Digital Transformation Dashboard: https://public.tableau.com/views/Visualisations_Projets_Ironhack/Vanguard_UX_Redesign_Dashboard?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 Dashboard Features:
 
 -Client Journey Analytics: Visualize customer progression through digital transformation stages
